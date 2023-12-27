@@ -1,0 +1,5 @@
+# Apps namespace, placeholder for when we start deploying apps to the cluster.
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: apps

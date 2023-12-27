@@ -1,0 +1,5 @@
+# Defines the tracing ns, this is where tracing components will be deployed.
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: trace

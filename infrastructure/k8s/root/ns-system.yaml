@@ -1,0 +1,5 @@
+# Defines the system namespace, this is where all the (non-kubernetes core) system components will be deployed.
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: system
